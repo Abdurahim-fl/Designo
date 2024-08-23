@@ -1,0 +1,5 @@
+@import "./global.css";
+.box_navigation {
+    display: flex;
+    justify-content: center;
+}
